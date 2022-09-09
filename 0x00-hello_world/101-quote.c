@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *   main - Entry point
- *   Description: Prints a quote
- *   Return: 1
+ *  main - Entry point
+ *  Description: Prints a quote
+ *  Return: 1
  */
 
 int main(void)
